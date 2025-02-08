@@ -6,3 +6,5 @@ Turbo on Quiet Mode is set to Disabled
 Turbo on Balance Mode is set to Efficient Enabled
 
 Turbo on Performance Mode is set to Agressive
+
+Version 2.0 adds support for mhz tweaks. making it easier to fine tune it for your system and gain stable performance with reduced temps
