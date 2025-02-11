@@ -1,7 +1,7 @@
 # Lenovo-Legion-Plans
 Installs Legion Power Plans
 
-# Power Plans
+# Power Plans ( Added Stock Power Plans and their installer too)
 Turbo on Quiet Mode is set to Disabled
 
 Turbo on Balance Mode is set to Efficient Enabled
